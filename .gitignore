@@ -1,0 +1,13 @@
+.env
+node_modules/
+src/logs/
+package-lock.json
+src/public
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
+.idea
+private/
+output/*.json
+input/*.json
